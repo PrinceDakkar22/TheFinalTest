@@ -1,0 +1,15 @@
+To add the MyFile.txt to the repository, I used "git add MyFile.txt" and then "git commit -m" 
+to commit it from the staging area. 
+
+
+
+I created the subfolder Info by right clicking on the parent folder and selecting "new folder".
+I then added two files named "InfoFile1" and "InfoFile2" to the subfolder. 
+
+To add just the subfolder Info to the version control, I used "git add Info". 
+This put both files that were located in the subfolder into the version control. 
+
+
+To add _Info at the end of my username for the repo, I first used the "git config user.name" command.
+This command let me know what my current username was so I could change it. I then used the 
+"git config user.name "Benjamin Wentzell_Info"" command to change the username. 
