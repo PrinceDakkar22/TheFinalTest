@@ -13,3 +13,10 @@ This put both files that were located in the subfolder into the version control.
 To add _Info at the end of my username for the repo, I first used the "git config user.name" command.
 This command let me know what my current username was so I could change it. I then used the 
 "git config user.name "Benjamin Wentzell_Info"" command to change the username. 
+
+To check the state of the repository I used the " git status " command. This command 
+shows the files that are being tracked. 
+
+When checking the status of the system, I noticed that Myfile.txt has been modified and that it will need to
+be readded to the repository for the changes to apply. This is signfied by the red text and the fact that 
+the file is showing up in the status. 
